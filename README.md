@@ -8,5 +8,3 @@ Some Plutonium GSC mods
 * Configuration Mod
 
 
-[Credits rules](https://grabify.link/7PFAVS)
-
