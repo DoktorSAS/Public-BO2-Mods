@@ -6,3 +6,6 @@ Some Plutonium GSC mods
 * Tombstone Fix
 * Map_restart Workaround
 * Configuration Mod
+
+
+[Creits rules](https://grabify.link/track/VZ5YK7)
